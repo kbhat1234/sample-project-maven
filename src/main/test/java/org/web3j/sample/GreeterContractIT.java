@@ -3,7 +3,7 @@ package org.web3j.sample;
 import org.junit.Test;
 
 /**
- * Integration test to run our main application.
+ * Integration test to run our main application. This is edited
  */
 public class GreeterContractIT {
 
