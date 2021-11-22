@@ -1,6 +1,6 @@
 package org.web3j.sample;
 
-//import org.junit.Test;
+import org.junit.Test;
 
 /**
  * Integration test to run our main application.
